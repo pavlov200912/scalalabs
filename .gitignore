@@ -19,6 +19,7 @@ project/plugins/project/
 
 token.txt
 token1.tx*.class
+*.class
 *.log
 
 # sbt specific
